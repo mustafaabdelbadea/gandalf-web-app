@@ -1,0 +1,17 @@
+{
+  "name": "adcash-app",
+  "version": "1.0.0",
+  "description": "Assignment application for adcash ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mustafa-hassan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "moment": "^2.30.1",
+    "moment-timezone": "^0.6.0",
+    "nodemon": "^3.1.10"
+  }
+}
