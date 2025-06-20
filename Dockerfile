@@ -4,7 +4,9 @@ WORKDIR /app
 
 COPY app /app
 
-RUN npm i
+RUN npm install --production
+
+RUN npm prune
 
 EXPOSE 3000
 

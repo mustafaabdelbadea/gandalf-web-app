@@ -1,2 +1,6 @@
 app/node_modules/*
 app/package-lock.json
+Dockerfile
+.dockerignore*
+.git*
+.gitignore*
